@@ -1,5 +1,5 @@
 {
-  "name": "DemoFaunaDB",
+  "name": "demo-fauna-db",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
